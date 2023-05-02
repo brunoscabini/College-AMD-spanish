@@ -1,0 +1,44 @@
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\obj\Debug\Práctica_previa_al_final.GUI.resources
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\obj\Debug\Práctica_previa_al_final.Properties.Resources.resources
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\Práctica previa al final.exe.config
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\Práctica previa al final.exe
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\Práctica previa al final.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\BLL.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\Verificaciones.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\Mapper.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\BLL.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\Verificaciones.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\Mapper.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\obj\Debug\Práctica previa al final.exe
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Vista\obj\Debug\Práctica previa al final.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\Práctica previa al final.exe.config
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\Práctica previa al final.exe
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\Práctica previa al final.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\BLL.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\Verificaciones.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\Mapper.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\BLL.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\Verificaciones.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\Mapper.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\obj\Debug\Práctica_previa_al_final.Properties.Resources.resources
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\obj\Debug\Práctica previa al final.exe
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\obj\Debug\Práctica previa al final.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Vista\obj\Debug\Práctica_previa_al_final.Interfaz.resources

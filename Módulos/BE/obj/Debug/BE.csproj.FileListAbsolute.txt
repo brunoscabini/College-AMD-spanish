@@ -1,0 +1,12 @@
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\BE\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\BE\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\BE\obj\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\BE\obj\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\BE\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\BE\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\BE\obj\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\BE\obj\Debug\BE.pdb

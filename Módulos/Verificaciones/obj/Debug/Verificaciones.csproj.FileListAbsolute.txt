@@ -1,0 +1,30 @@
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\bin\Debug\Verificaciones.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\bin\Debug\Verificaciones.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\bin\Debug\BLL.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\bin\Debug\Mapper.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\bin\Debug\BLL.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\bin\Debug\Mapper.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\obj\Debug\Verificaciones.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\obj\Debug\Verificaciones.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\obj\Debug\Verificaciones.csproj.CopyComplete
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\obj\Debug\Verificaciones.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Verificaciones\obj\Debug\Verificaciones.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\bin\Debug\Verificaciones.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\bin\Debug\Verificaciones.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\bin\Debug\BLL.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\bin\Debug\Mapper.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\bin\Debug\BLL.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\bin\Debug\Mapper.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\obj\Debug\Verificaciones.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\obj\Debug\Verificaciones.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\obj\Debug\Verificaciones.csproj.CopyComplete
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\obj\Debug\Verificaciones.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Verificaciones\obj\Debug\Verificaciones.pdb

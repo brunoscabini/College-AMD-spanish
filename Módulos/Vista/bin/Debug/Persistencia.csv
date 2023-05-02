@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Persona">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Nombre" type="xs:string" minOccurs="0" />
+                <xs:element name="Apellido" type="xs:string" minOccurs="0" />
+                <xs:element name="Tipo_identificacion" type="xs:string" minOccurs="0" />
+                <xs:element name="Numero_identificacion" type="xs:int" minOccurs="0" />
+                <xs:element name="Pais_origen" type="xs:string" minOccurs="0" />
+                <xs:element name="Genero" type="xs:string" minOccurs="0" />
+                <xs:element name="Fecha_nacimiento" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Tipo_usuario" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Materia">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Numero_identificacion" type="xs:int" minOccurs="0" />
+                <xs:element name="Nombre" type="xs:string" minOccurs="0" />
+                <xs:element name="Año_revision" type="xs:int" minOccurs="0" />
+                <xs:element name="Descripcion" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Cursada">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Numero_identificacion" type="xs:int" minOccurs="0" />
+                <xs:element name="Materia_numero_identificacion" type="xs:int" minOccurs="0" />
+                <xs:element name="Docente_numero_identificacion" type="xs:int" minOccurs="0" />
+                <xs:element name="Ciclo_x0020_lectivo" type="xs:int" minOccurs="0" />
+                <xs:element name="Cuatrimestre" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Alumno_cursada">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Alumno_numero_identificacion" type="xs:int" minOccurs="0" />
+                <xs:element name="Cursada_numero_identificacion" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Persona>
+    <Nombre>Bruno</Nombre>
+    <Apellido>Scabini</Apellido>
+    <Tipo_identificacion>Nacional</Tipo_identificacion>
+    <Numero_identificacion>43628873</Numero_identificacion>
+    <Pais_origen>Argentina</Pais_origen>
+    <Genero>Masculino</Genero>
+    <Fecha_nacimiento>2001-12-20T00:00:00-03:00</Fecha_nacimiento>
+    <Tipo_usuario>Alumno</Tipo_usuario>
+  </Persona>
+  <Persona>
+    <Nombre>Jorge</Nombre>
+    <Apellido>Martínez</Apellido>
+    <Tipo_identificacion>Nacional</Tipo_identificacion>
+    <Numero_identificacion>15252525</Numero_identificacion>
+    <Pais_origen>Argentina</Pais_origen>
+    <Genero>Masculino</Genero>
+    <Fecha_nacimiento>1978-12-10T00:00:00-03:00</Fecha_nacimiento>
+    <Tipo_usuario>Docente</Tipo_usuario>
+  </Persona>
+  <Materia>
+    <Numero_identificacion>96</Numero_identificacion>
+    <Nombre>Física</Nombre>
+    <Año_revision>2019</Año_revision>
+    <Descripcion>Es una materia en la cual se verán los conceptos básicos de las energías y las reacciones.</Descripcion>
+  </Materia>
+  <Cursada>
+    <Numero_identificacion>1526</Numero_identificacion>
+    <Materia_numero_identificacion>96</Materia_numero_identificacion>
+    <Docente_numero_identificacion>15252525</Docente_numero_identificacion>
+    <Ciclo_x0020_lectivo>2022</Ciclo_x0020_lectivo>
+    <Cuatrimestre>1</Cuatrimestre>
+  </Cursada>
+  <Alumno_cursada>
+    <Alumno_numero_identificacion>43628873</Alumno_numero_identificacion>
+    <Cursada_numero_identificacion>1526</Cursada_numero_identificacion>
+  </Alumno_cursada>
+</NewDataSet>

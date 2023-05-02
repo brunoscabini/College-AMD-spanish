@@ -1,0 +1,22 @@
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Mapper\obj\Debug\Mapper.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Mapper\obj\Debug\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Mapper\bin\Debug\Mapper.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Mapper\bin\Debug\Mapper.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Mapper\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Mapper\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Mapper\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Mapper\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Mapper\obj\Debug\Mapper.csproj.CopyComplete
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Mapper\obj\Debug\Mapper.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad\Módulos\Mapper\obj\Debug\Mapper.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Mapper\bin\Debug\Mapper.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Mapper\bin\Debug\Mapper.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Mapper\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Mapper\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Mapper\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Mapper\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Mapper\obj\Debug\Mapper.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Mapper\obj\Debug\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Mapper\obj\Debug\Mapper.csproj.CopyComplete
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Mapper\obj\Debug\Mapper.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Universidad de tecnología\Módulos\Mapper\obj\Debug\Mapper.pdb
